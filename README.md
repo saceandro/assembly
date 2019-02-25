@@ -1,3 +1,3 @@
 # assembly
 
-This is a repository for assemby exercise.
+This is a repository for PowerPC assemby exercise.
